@@ -1,7 +1,7 @@
-import Login from "./pages/Login";
+import TaskManager from "./pages/TaskManager";
 
 function App() {
-  return <Login />;
+  return <TaskManager />;
 }
 
 export default App;
