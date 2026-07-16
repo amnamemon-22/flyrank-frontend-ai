@@ -1,7 +1,7 @@
-import Login from "./pages/Login";
+import Settings from "./pages/Settings";
 
 function App() {
-  return <Login />;
+  return <Settings />;
 }
 
 export default App;
